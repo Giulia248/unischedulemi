@@ -1,0 +1,13 @@
+.wrapper form .button input {
+    margin-top: 20px;
+    color: #edf6f9;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0px;
+    background: #83c5be ;
+    border: 1px solid #006d77;
+    cursor: pointer;
+  }
+  form .button input:hover {
+    background: #006d77;
+  }
